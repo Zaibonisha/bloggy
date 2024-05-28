@@ -31,10 +31,12 @@
 
 Create a `.env` file in the root directory and add the following environment variables:
 
+# PORT
 
+* PORT
 
 # DATABASE
-* PORT
+
 * DB_CONNECTION
 * DB_HOST
 * DB_PORT
