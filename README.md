@@ -34,7 +34,7 @@ Create a `.env` file in the root directory and add the following environment var
 PORT
 
 # DATABASE
-DB_CONNECTION
-DB_HOST
-DB_PORT
-DB_DATABASE
+* DB_CONNECTION
+* DB_HOST
+* DB_PORT
+* DB_DATABASE
